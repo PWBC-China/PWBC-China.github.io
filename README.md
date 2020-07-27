@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## **实用代码及技巧大全**
 
-You can use the [editor on GitHub](https://github.com/PWBC-China/proxy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**打开Windows自带的恶意软件删除工具：**
+1.win键+R
+2.输入`mrt`并回车
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Windows打开开发模式：**
+1.创建一个文件夹
+2.输入名称`GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}`
 
-### Markdown
+**快速检查网络的畅通状态：**
+1.win键+R
+2.输入ping 你想要的的网站
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**一键清理磁盘垃圾：**
+1.win键+R
+2.输入`cleanmgr`并回车
 
-```markdown
-Syntax highlighted code block
+**一键修复电脑：**
+1.win键+R
+2.输入`dir/s`并回车
 
-# Header 1
-## Header 2
-### Header 3
+**远程控制电脑：**
+1.win键+R
+2.输入`mstsc`并回车
 
-- Bulleted
-- List
+**快速查看电脑配置：**
+1.win键+R
+2.输入`msinfo.exe`并回车
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PWBC-China/proxy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**查看别人最近在电脑上干了什么：**
+1.win键+R
+2.输入`recent`即可查看
