@@ -6,6 +6,7 @@
 <meta name="referrer" content="never">
 <meta http-equiv="X-UA-Compatible" content="IE=11" />
 <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
+<title>ZM播放器</title>
 </head>
 <body marginwidth="0" marginheight="0" style="position:absolute;width:100%;top:0;bottom:0;backgroung:#000">
 <link rel="stylesheet" href="./DPlayer.min.css">
